@@ -4,7 +4,8 @@ Changes
 2.1.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Integrate taxonomies into Collection tabular view, display values are now resolved
+  [MrTango]
 
 
 2.1.0 (2021-05-27)
